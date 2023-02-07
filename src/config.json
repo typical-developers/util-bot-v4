@@ -1,0 +1,29 @@
+{
+    "colors": {
+        "embed": 3092790,
+        "accent": 12761343,
+        "red": 15803709,
+        "orange": 15829797,
+        "green": 915292,
+        "blue": 3502569,
+        "purple": 8664553,
+        "pink": 15283595,
+        "white": 15791615
+    },
+    "icons": {
+        "success": "https://cdn.discordapp.com/emojis/1043653748427329566.webp?size=96&quality=lossless",
+        "warning": "https://cdn.discordapp.com/emojis/1043653745860423801.webp?size=96&quality=lossless",
+        "error": "https://cdn.discordapp.com/emojis/1043653746971901974.webp?size=96&quality=lossless",
+        "style": "https://cdn.discordapp.com/emojis/1033284821906096228.webp?size=96&quality=lossless",
+        "ranking": "https://cdn.discordapp.com/emojis/1033158650686095420.webp?size=96&quality=lossless"
+    },
+    "eval_access": [
+        "399416615742996480",
+        "547951620235984906"
+    ],
+    "ooklands_access": [
+        "547951620235984906",
+        "703448942519517246",
+        "399416615742996480"
+    ]
+}

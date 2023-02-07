@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "target": "ESNext",
+        "module": "CommonJS",
+        "outDir": "dist",
+        "resolveJsonModule": true,
+        "skipLibCheck": true
+    },
+    "exclude": ["node_modules"]
+}

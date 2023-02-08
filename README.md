@@ -5,7 +5,7 @@ Open sourced version of the Typical Developers' utilities bot. This is primarily
 > Any future updates to the bot will also not be included until updated, since this is not the main branch of the bot.
 
 ## License
-This version of the bot is licensed under the [GNU General Public License v3.0](https://github.com/typical-developers/util-bot-v4/blob/main/LICENSE) license. Please check the license file for more detailed information.
+All code for the bot is licensed under the [GNU General Public License v3.0](https://github.com/typical-developers/util-bot-v4/blob/main/LICENSE) license. Please check the license file for more detailed information.
 > **Note**  
 > In a nutshell, this means you are free to do whatever with the code, as long as you let others do the same.
 
